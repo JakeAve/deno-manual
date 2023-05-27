@@ -91,6 +91,7 @@ Configuration for [`deno fmt`](../tools/formatter.md)
     "indentWidth": 4,
     "singleQuote": true,
     "proseWrap": "preserve",
+    "semiColons": false,
     "include": ["src/"],
     "exclude": ["src/testdata/", "data/fixtures/**/*.ts"]
   }
